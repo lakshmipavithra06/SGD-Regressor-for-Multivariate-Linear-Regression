@@ -65,7 +65,7 @@ pred_occ = occ_model.predict(new_data)
 print("Predicted Price:", pred_price[0])
 print("Predicted Occupants:", round(pred_occ[0]))
 
-  
+
 */
 ```
 
